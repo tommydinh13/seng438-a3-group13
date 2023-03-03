@@ -35,6 +35,8 @@ DEF(7) = {}, USE(7) = {l, u}
 ![image](https://user-images.githubusercontent.com/81772838/222838705-d1d67d89-8bbf-43a3-938b-a53332e91ea0.png)
 
 ### Test with Pair Cover
+![image](https://user-images.githubusercontent.com/81772838/222842162-b9f902e3-fc72-4202-9eae-967bede2e1e5.png)
+
 ### DU-Pair Coverage Calculation
 
 ## DataUtilities.calculateColumnTotal()
@@ -60,6 +62,7 @@ DEF(13) = {}, USE(13) = {total}
 ![image](https://user-images.githubusercontent.com/81772838/222838810-6cbb3416-74c0-4897-b577-b39dd294d8b7.png)
 
 ### Test with Pair Cover
+
 ### DU-Pair Coverage Calculation
 
 Text…
