@@ -29,7 +29,7 @@ DEF(3) = {}, USE(3) = {range2}\
 DEF(4) = {}, USE(4) = {range1}\
 DEF(5) = {l}, USE(5) = {range1,range2}\
 DEF(6) = {u}, USE(6) = {range1, range2}\
-DEF(7) = {}, USE(7) = {l, u}\
+DEF(7) = {}, USE(7) = {l, u}
 
 ### DU-Pairs Per Variable
 ### Test with Pair Cover
@@ -52,7 +52,7 @@ DEF(9) = {n}, USE(9) = {data, row, column}\
 DEF(10) = {}, USE(10) = {n}\
 DEF(11) = {total}, USE(11) = {n}\
 DEF(12) = {v}, USE(12) = {}\
-DEF(13) = {}, USE(13) = {total}\
+DEF(13) = {}, USE(13) = {total}
 
 ### DU-Pairs Per Variable
 ### Test with Pair Cover
