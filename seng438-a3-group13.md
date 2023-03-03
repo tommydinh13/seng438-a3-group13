@@ -50,6 +50,21 @@ Text…
 ### Range Method Coverage
 ![image](https://user-images.githubusercontent.com/81772838/222640404-a71c461f-10dd-48e6-b119-54dd2a3ba024.png)
 
+## Code Coverage
+### DataUtilities
+
+### Range
+![image](https://user-images.githubusercontent.com/81772838/222804763-5a9b6f98-57fd-4b65-90e6-709539c62e17.png)
+![image](https://user-images.githubusercontent.com/81772838/222804815-eb922890-53fb-4c27-96fd-489e03e397b9.png)
+![image](https://user-images.githubusercontent.com/81772838/222804843-4ceadf5b-cc76-4874-8468-237be22b2669.png)
+![image](https://user-images.githubusercontent.com/81772838/222804879-42bee853-e197-4255-9dd0-feec3b50d346.png)
+![image](https://user-images.githubusercontent.com/81772838/222805003-481a7160-a42b-4b15-a63b-d16ecc6a8891.png)
+![image](https://user-images.githubusercontent.com/81772838/222805029-1699bfe3-f4f2-4a9f-ad18-b700e592a5e0.png)
+![image](https://user-images.githubusercontent.com/81772838/222805071-3997f8fc-2d50-4122-a1b1-bb9db479bd19.png)
+![image](https://user-images.githubusercontent.com/81772838/222805119-7750ab48-d927-4c66-8972-9f64b8d172ea.png)
+![image](https://user-images.githubusercontent.com/81772838/222805157-02b955e5-5345-483f-8789-cb80f0755eaf.png)
+![image](https://user-images.githubusercontent.com/81772838/222805196-d58dddc5-9021-4f1e-8252-8cad87e4b5bb.png)
+![image](https://user-images.githubusercontent.com/81772838/222805221-0d72e484-f0b5-43ee-a74f-fb35d1825ab2.png)
 
 
 
