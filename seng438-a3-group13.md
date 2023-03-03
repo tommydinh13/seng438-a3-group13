@@ -20,6 +20,8 @@ In this lab, we are asked to explore the technique of white-box coverage criteri
 # 2 Manual data-flow coverage calculations for Range.combine() and DataUtilities.calculateColumnTotal() methods
 ## Range.combine()
 ### Data Flow Graph
+![image](https://user-images.githubusercontent.com/81772838/222837455-ff0fab1d-5dba-4c1a-8339-7c684321d631.png)
+
 ### Def-Use Sets Per Statement
 ### DU-Pairs Per Variable
 ### Test with Pair Cover
@@ -27,6 +29,8 @@ In this lab, we are asked to explore the technique of white-box coverage criteri
 
 ## DataUtilities.calculateColumnTotal()
 ### Data Flow Graph
+![image](https://user-images.githubusercontent.com/81772838/222837514-fa35b7d2-4bfa-4aa5-a9a6-48022683371a.png)
+
 ### Def-Use Sets Per Statement
 ### DU-Pairs Per Variable
 ### Test with Pair Cover
