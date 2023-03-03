@@ -32,6 +32,8 @@ DEF(6) = {u}, USE(6) = {range1, range2}\
 DEF(7) = {}, USE(7) = {l, u}
 
 ### DU-Pairs Per Variable
+![image](https://user-images.githubusercontent.com/81772838/222838705-d1d67d89-8bbf-43a3-938b-a53332e91ea0.png)
+
 ### Test with Pair Cover
 ### DU-Pair Coverage Calculation
 
@@ -55,6 +57,8 @@ DEF(12) = {v}, USE(12) = {}\
 DEF(13) = {}, USE(13) = {total}
 
 ### DU-Pairs Per Variable
+![image](https://user-images.githubusercontent.com/81772838/222838810-6cbb3416-74c0-4897-b577-b39dd294d8b7.png)
+
 ### Test with Pair Cover
 ### DU-Pair Coverage Calculation
 
