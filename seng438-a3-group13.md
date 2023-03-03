@@ -17,7 +17,20 @@ for each group. Please see each lab document for details.)
 
 In this lab, we are asked to explore the technique of white-box coverage criteria. Unlike assignment 2 where unit tests had to be made without knowing the source code(black-box testing), white-box testing allows us to create unit tests based on the source code of a class or method. The idea of white-box testing is to let the test developer write tests that will ensure that they execute most of the source code. The three types of coverage that we are exploring through our white-box testing are: Statement Coverage, Branch Coverage, and Condition Coverage. Statement Coverage can be seen as how much of the source code the unit tests cover. We can think of it as “how many lines of code do the unit tests cover?”. Branch Coverage can be seen as how many different branch paths were executed. This mainly refers to if-statements where there are multiple paths that an if-statement can go down. Condition Coverage focuses on evaluating whether all possible outcomes of a Boolean expression have been tested. In other words, condition coverage measures the extent to which each individual condition (or combination of conditions) in a decision statement has been exercised during testing.
 
-# 2 Manual data-flow coverage calculations for X and Y methods
+# 2 Manual data-flow coverage calculations for Range.combine() and DataUtilities.calculateColumnTotal() methods
+## Range.combine()
+### Data Flow Graph
+### Def-Use Sets Per Statement
+### DU-Pairs Per Variable
+### Test with Pair Cover
+### DU-Pair Coverage Calculation
+
+## DataUtilities.calculateColumnTotal()
+### Data Flow Graph
+### Def-Use Sets Per Statement
+### DU-Pairs Per Variable
+### Test with Pair Cover
+### DU-Pair Coverage Calculation
 
 Text…
 
