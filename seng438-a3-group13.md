@@ -30,14 +30,25 @@ Text…
 Text…
 
 # 5 A detailed report of the coverage achieved of each class and method (a screen shot from the code cover results in green and red color would suffice)
-![image](https://user-images.githubusercontent.com/81772838/222640103-64986c02-890e-422f-8e1c-9eddae01b4be.png)
-![image](https://user-images.githubusercontent.com/81772838/222640164-d6c1bee2-8706-4fdd-9bca-9a597cfe0f49.png)
-![image](https://user-images.githubusercontent.com/81772838/222640185-2ebed1bc-8966-43ed-90f5-4dfe8e11ca2c.png)
-Data utilities ^^^
+![image](https://user-images.githubusercontent.com/81772838/222799703-932bc04b-4e8d-4279-ab2b-06274c4a614c.png)
+DataUtilities Statement Coverage 
+
+![image](https://user-images.githubusercontent.com/81772838/222799816-f4ed2d22-3001-48e0-b90f-95ca2de02ec6.png)
+DataUtilites Branch Coverage
+
+![image](https://user-images.githubusercontent.com/81772838/222800050-a1c535a5-4f3a-4f5d-be10-362ece9b08b9.png)
+DataUtilities Method Coverage
+
+
 ![image](https://user-images.githubusercontent.com/81772838/222640308-b78efef7-943c-4932-ae90-e4faaf5f9fb5.png)
+Range Statement Coverage
+
 ![image](https://user-images.githubusercontent.com/81772838/222640362-37a2b9a0-3b39-4a14-81b0-fcc76ce7eb99.png)
+Range Branch Coverage
+
 ![image](https://user-images.githubusercontent.com/81772838/222640404-a71c461f-10dd-48e6-b119-54dd2a3ba024.png)
-Range ^^^ just place holders for when we finalize
+Range Method Coverage
+
 
 
 # 6 Pros and Cons of coverage tools used and Metrics you report
