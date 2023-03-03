@@ -23,19 +23,13 @@ In this lab, we are asked to explore the technique of white-box coverage criteri
 ![image](https://user-images.githubusercontent.com/81772838/222837455-ff0fab1d-5dba-4c1a-8339-7c684321d631.png)
 
 ### Def-Use Sets Per Statement
-DEF(1) = {range1, range2}, USE(1) = {range1}
-
-DEF(2) = {}, USE(2) = {range2}
-
-DEF(3) = {}, USE(3) = {range2}
-
-DEF(4) = {}, USE(4) = {range1}
-
-DEF(5) = {l}, USE(5) = {range1,range2}
-
-DEF(6) = {u}, USE(6) = {range1, range2}
-
-DEF(7) = {}, USE(7) = {l, u}
+DEF(1) = {range1, range2}, USE(1) = {range1}\
+DEF(2) = {}, USE(2) = {range2}\
+DEF(3) = {}, USE(3) = {range2}\
+DEF(4) = {}, USE(4) = {range1}\
+DEF(5) = {l}, USE(5) = {range1,range2}\
+DEF(6) = {u}, USE(6) = {range1, range2}\
+DEF(7) = {}, USE(7) = {l, u}\
 
 ### DU-Pairs Per Variable
 ### Test with Pair Cover
@@ -46,31 +40,19 @@ DEF(7) = {}, USE(7) = {l, u}
 ![image](https://user-images.githubusercontent.com/81772838/222837514-fa35b7d2-4bfa-4aa5-a9a6-48022683371a.png)
 
 ### Def-Use Sets Per Statement
-DEF(1) = {data, column, validRows}, USE(1) = {data}
-
-DEF(2) = {total}, USE(2) = {}
-
-DEF(3) = {}, USE(3) = {total}
-
-DEF(4) = {total}, USE(4) = {}
-
-DEF(5) = {rowCount}, USE(5) = {data}
-
-DEF(6) = {v}, USE(6) = {v, validRows}
-
-DEF(7) = {row}, USE(7) = {validRows, v}
-
-DEF(8) = {}, USE(8) = {row, rowCount}
-
-DEF(9) = {n}, USE(9) = {data, row, column}
-
-DEF(10) = {}, USE(10) = {n}
-
-DEF(11) = {total}, USE(11) = {n}
-
-DEF(12) = {v}, USE(12) = {}
-
-DEF(13) = {}, USE(13) = {total}
+DEF(1) = {data, column, validRows}, USE(1) = {data}\
+DEF(2) = {total}, USE(2) = {}\
+DEF(3) = {}, USE(3) = {total}\
+DEF(4) = {total}, USE(4) = {}\
+DEF(5) = {rowCount}, USE(5) = {data}\
+DEF(6) = {v}, USE(6) = {v, validRows}\
+DEF(7) = {row}, USE(7) = {validRows, v}\
+DEF(8) = {}, USE(8) = {row, rowCount}\
+DEF(9) = {n}, USE(9) = {data, row, column}\
+DEF(10) = {}, USE(10) = {n}\
+DEF(11) = {total}, USE(11) = {n}\
+DEF(12) = {v}, USE(12) = {}\
+DEF(13) = {}, USE(13) = {total}\
 
 ### DU-Pairs Per Variable
 ### Test with Pair Cover
