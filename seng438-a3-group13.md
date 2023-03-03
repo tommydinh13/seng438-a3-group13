@@ -52,6 +52,14 @@ Text…
 
 ## Code Coverage
 ### DataUtilities
+![image](https://user-images.githubusercontent.com/81772838/222805819-99625bf8-ebef-496c-b45b-d9a471558822.png)
+![image](https://user-images.githubusercontent.com/81772838/222805852-294529d3-15e8-4151-8e8c-9936adc7a68f.png)
+![image](https://user-images.githubusercontent.com/81772838/222805898-d29bb8b6-6785-4f88-b47b-6bb73fd6572b.png)
+![image](https://user-images.githubusercontent.com/81772838/222805943-95a705c2-b7fa-436b-8c5b-90ecbe0d1465.png)
+![image](https://user-images.githubusercontent.com/81772838/222805971-f596247b-e8d7-46e5-a343-39976e01cd0c.png)
+![image](https://user-images.githubusercontent.com/81772838/222806028-18ec7e98-041a-4849-b9f9-727f690f3d87.png)
+![image](https://user-images.githubusercontent.com/81772838/222806048-ee839e65-df3e-458f-93ea-a4e07b22a6b1.png)
+
 
 ### Range
 ![image](https://user-images.githubusercontent.com/81772838/222804763-5a9b6f98-57fd-4b65-90e6-709539c62e17.png)
