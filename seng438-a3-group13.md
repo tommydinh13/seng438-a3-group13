@@ -38,6 +38,15 @@ DEF(7) = {}, USE(7) = {l, u}
 ![image](https://user-images.githubusercontent.com/81772838/222842162-b9f902e3-fc72-4202-9eae-967bede2e1e5.png)
 
 ### DU-Pair Coverage Calculation
+Total c-use: 8 \
+Total p-use: 2\
+Infeasible p-use: 0\
+Infeasible p-use: 0\
+Covered c-use: 8\
+Covered p-use: 2\
+DU-Pair coverage = (covered c-use + covered p-use) / ((total c-use + total p-use) - (infeasible c-use + infeasible p-use))\
+DU-Pair coverage = (8 +2) / ((8 + 2) - (0 + 0))\
+DU-Pair Coverage = 100%
 
 ## DataUtilities.calculateColumnTotal()
 ### Data Flow Graph
@@ -65,7 +74,7 @@ DEF(13) = {}, USE(13) = {total}
 ![image](https://user-images.githubusercontent.com/81772838/222862355-a2e30ac3-d9f1-4037-b5f6-48a4ccba282f.png)
 
 ### DU-Pair Coverage Calculation
-Total c-use: 9 (2 infeasible)\
+Total c-use: 9\
 Total p-use: 7\
 Infeasible p-use: 2\
 Infeasible p-use: 0\
