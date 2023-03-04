@@ -76,7 +76,6 @@ DU-Pair coverage = (7 +7) / ((9 + 7) - (2 + 0))\
 DU-Pair Coverage = 100%
 
 
-Text…
 
 # 3 A detailed description of the testing strategy for the new unit test
 
