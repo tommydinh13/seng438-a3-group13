@@ -146,7 +146,11 @@ EclEmma facilitated our examination of test case coverage, and its compatibility
 
 # 7 A comparison on the advantages and disadvantages of requirements-based test generation and coverage-based test generation.
 
-Text…
+Requirements-based test generation has several advantages. It ensures that the software system satisfies the specified requirements, which is crucial in meeting the user's needs. It also helps to verify that all features, functions, and behaviors of the system meet the user's needs. However, there are some limitations to this approach. For instance, it may not cover all parts of the codebase or test all possible scenarios, leading to incomplete testing.
+
+Coverage-based test generation, on the other hand, has its own advantages. It provides a systematic approach to testing by focusing on specific parts of the codebase that need to be covered, ensuring that all parts of the codebase are executed and evaluated. This approach can also help identify untested paths, conditions, and exceptions in the code. However, coverage-based test generation does not guarantee that the system is meeting the user's needs or requirements. Additionally, it can result in a large number of test cases, many of which may not be relevant or useful.
+
+In conclusion, both requirements-based test generation and coverage-based test generation have their benefits and drawbacks. The choice of approach depends on the specific goals and objectives of the testing effort, as well as the resources available. Ultimately, it is essential to ensure that testing is comprehensive and effective in identifying and mitigating potential issues in the software system.
 
 # 8 A discussion on how the team work/effort was divided and managed
 
