@@ -88,7 +88,7 @@ DU-Pair Coverage = 100%
 
 # 3 A detailed description of the testing strategy for the new unit test
 
-Text…
+Our test plan involves initially identifying the current branch, statement, and condition coverage in our test files. Once this assessment is complete, we will proceed to select different methods that we have not previously tested and develop individual test cases to evaluate if we can enhance our coverage metrics as well as creating more test cases for methods previously evaluated in lab 2. After determining how to improve each coverage type, we will distribute the necessary number of test cases among ourselves and perform pair-programming, similar to previous labs. In this lab, we will use EclEmma, which involves the use of statement, branch, and method coverages, having method coverage replacing condition coverage.
 
 # 4 A high level description of five selected test cases you have designed using coverage information, and how they have increased code coverage
 
