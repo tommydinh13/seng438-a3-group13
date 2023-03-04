@@ -10,8 +10,7 @@
 | Stuart Johnstone               |     |
 | Sina Tavakol Moghaddam               |     |
 
-(Note that some labs require individual reports while others require one report
-for each group. Please see each lab document for details.)
+
 
 # 1 Introduction
 
