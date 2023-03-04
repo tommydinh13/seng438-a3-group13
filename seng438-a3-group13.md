@@ -90,8 +90,34 @@ DU-Pair Coverage = 100%
 Our test plan involves initially identifying the current branch, statement, and condition coverage in our test files. Once this assessment is complete, we will proceed to select different methods that we have not previously tested and develop individual test cases to evaluate if we can enhance our coverage metrics as well as creating more test cases for methods previously evaluated in lab 2. After determining how to improve each coverage type, we will distribute the necessary number of test cases among ourselves and perform pair-programming(Tommy/Tien Dat & Stuart/Sina), similar to previous labs. In this lab, we will use EclEmma, which involves the use of statement, branch, and method coverages, having method coverage replacing condition coverage.
 
 # 4 A high level description of five selected test cases you have designed using coverage information, and how they have increased code coverage
+## Range.combine()
+Range.combine() was a function that was not tested in assignment 2, which is why when we run our initial coverage test on the method, there was 0% statement coverage.
+![image](https://user-images.githubusercontent.com/81772838/222869403-9cf3663f-c85d-46cc-9bcf-0143565f9d83.png)
 
-Text…
+### combineTestOne()
+Running our first test on Range.combine() with combineTestOne() allowed us to set our arguments where we chose range1 to be not null and range2 to be null. This test authorized the source code to call one of the return functions inside of the second if-statement. This resulted in the increase of statement coverage from 0% to 23.1%.
+![image](https://user-images.githubusercontent.com/81772838/222869536-18887d62-c700-4076-b9e2-5cd6356dfa42.png)
+
+### combineTestTwo()
+Running our second test on Range.combine() with combineTestTwo() allowed us to set our arguments where we chose range1 to be null and range2 to be not null. This test authorized the source code to call the other return functions inside of the first if-statement. This resulted in the increase of statement coverage from 23.1% to 30.8%.
+![image](https://user-images.githubusercontent.com/81772838/222869739-baa8df3d-7d8c-4a61-be4a-75e72bf43925.png)
+
+### combineTestThree()
+The last test for Range.combine() being combineTestThree() allowed us to set our arguments where we chose range1 to be a normal Range object (not null) and range2 to be a normal Range object (not null). This test authorized the source code to access the untouched code, which accessed the last return statment. This resulted in the increase of statement coverage from 30.8% to 100%
+![image](https://user-images.githubusercontent.com/81772838/222869940-1ed7f800-ac65-485c-9100-a9046a225f5a.png)
+
+## Range.equals()
+Range.equals() was already a method that was previously tested in assignment 2. Before the start of white-box testing, this method had a statement coverage of 84.6%.
+![image](https://user-images.githubusercontent.com/81772838/222870181-c09d3854-d6c1-41d1-a187-14f2b5890faf.png)
+
+### equalsDifferentObjectTest()
+The first additional test case used was equalsDifferentObjectTest(). This tested how the method would react if the input argument accepted an object that was not a Range object. By passing in an int object instead, we are able to cover the first return statement inside of the method. The result of this test caused the statement coverage of Range.equals() to go from 84.6% to 92.3%.
+![image](https://user-images.githubusercontent.com/81772838/222870368-9bcdfeed-afda-426a-a473-7d5ff9e8ff6d.png)
+
+### equalsSameLowerDifferentUpper()
+The second additonal test case used was equalsSameLowerDifferentUpper(). This tested how the method would react if the Range object it was compared to had the same lower bound, but a different upper bound. With this test we are able to reach the second return statement of the method. The result of this test caused the statement coverage of Range.equals() to go from 84.6% to 92.3%.
+![image](https://user-images.githubusercontent.com/81772838/222870474-810379f1-8dae-40fa-9d54-0f6786f2f640.png)
+
 
 # 5 A detailed report of the coverage achieved of each class and method (a screen shot from the code cover results in green and red color would suffice)
 ## Statement, Branch, and Method Coverage
