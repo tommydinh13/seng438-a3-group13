@@ -164,7 +164,7 @@ The second additonal test case used was equalsSameLowerDifferentUpper(). This te
 ![image](https://user-images.githubusercontent.com/81772838/222805196-d58dddc5-9021-4f1e-8252-8cad87e4b5bb.png)
 ![image](https://user-images.githubusercontent.com/81772838/222805221-0d72e484-f0b5-43ee-a74f-fb35d1825ab2.png)
 
-
+See [9] for more information on why our statement coverage did not reach 90%.
 
 # 6 Pros and Cons of coverage tools used and Metrics you report
 EclEmma facilitated our examination of test case coverage, and its compatibility with mock objects enabled us to retain most of our initial test cases while conducting white-box testing to improve functionality. The coverage data proved to be a valuable asset in assessing the effectiveness of our test cases. Additionally, EclEmma provided a graphical display of code coverage across the source code, simplifying the identification of areas requiring more coverage. The tool was easy to use, straightforward, and beneficial. However, EclEmma's coverage options are restricted, meaning that we had to focus on method coverage rather than condition coverage.
