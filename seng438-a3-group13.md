@@ -154,7 +154,7 @@ In conclusion, both requirements-based test generation and coverage-based test g
 
 # 8 A discussion on how the team work/effort was divided and managed
 
-Text…
+To ensure that everyone in our group gained experience in coverage testing and to prevent overlapping work, we divided the tasks among ourselves. This entailed assigning specific functions to each team member, with those not involved in writing the report taking on additional functions. This approach proved effective as it allowed us to utilize coverage tools while delegating work efficiently. Upon completion of individual assignments, we conducted pair-testing to ensure the quality of our work. Tommy and Tien Dat formed one pair, while Stuart and Sina formed the other.
 
 # 9 Any difficulties encountered, challenges overcome, and lessons learned from performing the lab
 
