@@ -142,8 +142,7 @@ Text…
 
 
 # 6 Pros and Cons of coverage tools used and Metrics you report
-
-Text…
+EclEmma facilitated our examination of test case coverage, and its compatibility with mock objects enabled us to retain most of our initial test cases while conducting white-box testing to improve functionality. The coverage data proved to be a valuable asset in assessing the effectiveness of our test cases. Additionally, EclEmma provided a graphical display of code coverage across the source code, simplifying the identification of areas requiring more coverage. The tool was easy to use, straightforward, and beneficial. However, EclEmma's coverage options are restricted, meaning that we had to focus on method coverage rather than condition coverage.
 
 # 7 A comparison on the advantages and disadvantages of requirements-based test generation and coverage-based test generation.
 
