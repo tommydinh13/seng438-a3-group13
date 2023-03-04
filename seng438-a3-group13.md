@@ -62,8 +62,19 @@ DEF(13) = {}, USE(13) = {total}
 ![image](https://user-images.githubusercontent.com/81772838/222838810-6cbb3416-74c0-4897-b577-b39dd294d8b7.png)
 
 ### Test with Pair Cover
+![image](https://user-images.githubusercontent.com/81772838/222862355-a2e30ac3-d9f1-4037-b5f6-48a4ccba282f.png)
 
 ### DU-Pair Coverage Calculation
+Total c-use: 9 (2 infeasible)\
+Total p-use: 7\
+Infeasible p-use: 2\
+Infeasible p-use: 0\
+Covered c-use: 7\
+Covered p-use: 7\
+DU-Pair coverage = (covered c-use + covered p-use) / ((total c-use + total p-use) - (infeasible c-use + infeasible p-use))\
+DU-Pair coverage = (7 +7) / ((9 + 7) - (2 + 0))\
+DU-Pair Coverage = 100%
+
 
 Text…
 
